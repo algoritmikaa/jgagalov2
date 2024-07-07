@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+
+
+header {
+    background-color: rgb(192, 240, 240);
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+
+h1 {
+    color: darkblue;
+    background-color: rgb(192, 240, 240);
+    text-align: center;
+}
+
+
+footer p {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+
+nav a {
+    background-color: rgb(7, 7, 252);
+    color: white;
+    border-radius: 5px;
+    text-decoration: 5px;
+    padding: 2px;
+    margin: 17px;
+}
+
+
+.algo {
+    background-color: rgb(172, 238, 51);
+    padding: 17px;
+}
+
+h2 {
+    color: blue
+}
